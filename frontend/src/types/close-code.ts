@@ -1,0 +1,5 @@
+export enum LobbyWSCloseCode {
+  LWS_CLOSE_BY_HOST = 3003,
+  LWS_CLOSE_KICK = 3004,
+  LWS_CLOSE_NOT_HOSTED = 3005,
+}

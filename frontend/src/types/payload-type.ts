@@ -1,0 +1,9 @@
+export enum LobbyWSPayloadType {
+  LWS_TYPE_LBB,
+  LWS_TYPE_OPP,
+  LWS_TYPE_INF,
+  LWS_TYPE_OLV,
+  LWS_TYPE_OKC,
+  LWS_TYPE_TRY,
+  LWS_TYPE_SBT,
+}

@@ -1,0 +1,10 @@
+/lobby
+	create
+	get all by user
+	find all by name which are allowed to see by user
+	open a ws connection for a lobby
+/user
+	register
+	login
+	logout (?)
+
